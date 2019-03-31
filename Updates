@@ -1,12 +1,16 @@
-Update 0.5.5
+Patch 0.5.5
   -Added color to connectors when powerered.
-  -Updated destruction of cables a little.
+  -Patched destruction of cables a little.
   
-Update 0.5.5 Beta
+Patch 0.5.5 Beta
   -Changed the droop of the cables.
 
-Update 0.5.6 Beta
+Patch 0.5.6 Beta
   -Centered the logic type text
   
-Update 0.5.7 Beta
+Patch 0.5.7 Beta
   -Updated Unity Engine Version
+
+Patch 0.5.8 Beta
+  -Text now faces the player
+
