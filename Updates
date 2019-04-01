@@ -17,6 +17,8 @@ Patch 0.5.8 Beta
 Patch 0.5.9 Beta
   -Fixed connection node movement problem.
   
-Patch 0.5.10 beta
+Patch 0.5.10 Beta
   -Fixed logic gate destruction.
 
+Patch 0.5.11 Beta
+  -Fixed destroying logic gates, again...
