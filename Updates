@@ -6,14 +6,17 @@ Patch 0.5.5 Beta
   -Changed the droop of the cables.
 
 Patch 0.5.6 Beta
-  -Centered the logic type text
+  -Centered the logic type text.
   
 Patch 0.5.7 Beta
-  -Updated Unity Engine Version
+  -Updated Unity Engine Version.
 
 Patch 0.5.8 Beta
-  -Text now faces the player
+  -Text now faces the player.
   
 Patch 0.5.9 Beta
-  -Fixed connection node movement problem
+  -Fixed connection node movement problem.
+  
+Patch 0.5.10 beta
+  -Fixed logic gate destruction.
 
